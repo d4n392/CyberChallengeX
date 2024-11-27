@@ -10,10 +10,13 @@ You’ve just intercepted a suspicious data stream. A packet capture (PCAP) file
 
 ### 🔑 Your Mission:
 
-    Download the PCAP file here: Day 1 PCAP Challenge
-    Use Wireshark (or your tool of choice) to sift through the traffic and isolate the hidden message.
-    Follow the data trail. It’s not encrypted, but it’s definitely encoded—a cipher wrapped in a network packet.
-    Focus your analysis on the payload—look for patterns, anomalies, and those telltale signs of an encoding scheme in use.
+Download the PCAP file here: [Phantom Stream pcap](https://github.com/d4n392/CyberChallengeX/blob/main/hacking_challenge_day1.pcapng)
+
+Use Wireshark (or your tool of choice) to sift through the traffic and isolate the hidden message.
+
+Follow the data trail. It’s not encrypted, but it’s definitely encoded—a cipher wrapped in a network packet.
+
+Focus your analysis on the payload—look for patterns, anomalies, and those telltale signs of an encoding scheme in use.
 
 ### 💡 Hint:
 This isn’t your typical encryption. What you’re dealing with is a classic encoding scheme, a common one. You’ve seen it before, but now it’s disguised in the raw flow of data. Think about how digital data gets encoded when it’s ready to be hidden in plain sight. Decode it and reveal what lies beneath.
