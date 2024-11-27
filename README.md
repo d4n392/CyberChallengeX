@@ -27,7 +27,7 @@ This isn’t your typical encryption. What you’re dealing with is a classic en
 
 Below is a breakdown of finding the answer, try and give it a shot first..._it's much more fun!_
 
-## Day 1 Solution: Unveil the Signal
+## _Day 1 Solution: Unveil the Signal_
 
 ### 🔎 Scenario Recap
 
