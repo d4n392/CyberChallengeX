@@ -39,6 +39,8 @@ tcp.port == 1337
 #### Inspect the Packets
 Look at the payload in the TCP packets. Navigate to this packet #9, highlight the Data section and in the right-hand "Packet Bytes" pane, you’ll notice the data is encoded. "
 
+![image](https://github.com/user-attachments/assets/d710f3c0-6eb2-4e91-bc1e-85895539f37d)
+
 _Right-click on the payload > Follow TCP Stream to view all the data in one place._
 
 Export the Payload
