@@ -1,4 +1,4 @@
-# CyberChallengeX: Echos from the dark
+# CyberChallengeX: Echoes from the dark
 
 #### _In the vast expanse of cyberspace, where information flows like currents in an endless digital ocean, there are places even the most skilled hackers dare not venture...._ 
 
